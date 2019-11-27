@@ -63,5 +63,5 @@ class ListDictionary
     }
 }
 $obj = new ListDictionary();
-$path = '/Users/songjq/PhpstormProjects/usercenter/www/uploads';
+$path = '/Users/songjq/';
 $obj->List($path);
